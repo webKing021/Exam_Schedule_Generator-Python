@@ -85,9 +85,9 @@ The Exam Scheduling Generator is a powerful desktop application designed to simp
 
 1. Clone the repository or download the source code
    ```
-   git clone https://github.com/username/exam-scheduling-generator.git
+   git clone https://github.com/webKing021/Exam_Schedule_Generator-Python.git
    ```
-
+   
 2. Install required dependencies
    ```
    pip install -r requirements.txt
@@ -225,4 +225,4 @@ The application uses the following MySQL database tables:
 
 ## Author
 
-Developed by Krutarth Raychura
+Developed by Krutarth Raychura aka webKing021
